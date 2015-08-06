@@ -1,6 +1,6 @@
 {"version":3,
  "file":
- "/Users/michaelwalker/Dropbox/Code/clojurescript-koans-online/out/cljs/core/async/impl/channels.js",
+ "/Users/mcd/Programming/lisp/got/mcd/clojurescript-koans/out/cljs/core/async/impl/channels.js",
  "sources":["channels.cljs"],
  "lineCount":190,
  "mappings":

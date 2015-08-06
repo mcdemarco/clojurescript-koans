@@ -1,6 +1,6 @@
 {"version":3,
  "file":
- "/Users/michaelwalker/Dropbox/Code/clojurescript-koans-online/out/cljs/core/async/impl/dispatch.js",
+ "/Users/mcd/Programming/lisp/got/mcd/clojurescript-koans/out/cljs/core/async/impl/dispatch.js",
  "sources":["dispatch.cljs"],
  "lineCount":71,
  "mappings":

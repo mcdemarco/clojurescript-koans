@@ -1,6 +1,6 @@
 {"version":3,
  "file":
- "/Users/michaelwalker/Dropbox/Code/clojurescript-koans-online/out/cljs/core/async/impl/timers.js",
+ "/Users/mcd/Programming/lisp/got/mcd/clojurescript-koans/out/cljs/core/async/impl/timers.js",
  "sources":["timers.cljs"],
  "lineCount":372,
  "mappings":

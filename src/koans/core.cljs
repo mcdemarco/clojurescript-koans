@@ -37,7 +37,7 @@
         (if (= text :input)
           [:span {:class "code"}
             [:span {:class "shadow"}]
-            [:input {:name "code"}]]
+            [:input {:name "code", :autocapitalize "none"}]]
           [:span {:class "text"} text]))]
       (if-not (nil? (:fn-strings koan))
         [:div {:class "functions"}
@@ -47,7 +47,7 @@
                 (if (= text :input)
                   [:span {:class "code"}
                     [:span {:class "shadow"}]
-                    [:input {:name "code"}]]
+                    [:input {:name "code", :autocapitalize "none"}]]
                   [:pre {:class "text"} text]))])])])
 
 (deftemplate error-message []

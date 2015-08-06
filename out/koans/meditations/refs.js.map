@@ -1,6 +1,6 @@
 {"version":3,
  "file":
- "/Users/michaelwalker/Dropbox/Code/clojurescript-koans-online/out/koans/meditations/refs.js",
+ "/Users/mcd/Programming/lisp/got/mcd/clojurescript-koans/out/koans/meditations/refs.js",
  "sources":["15_refs.cljs"],
  "lineCount":7,
  "mappings":";;;AAECA;AAsCAC",

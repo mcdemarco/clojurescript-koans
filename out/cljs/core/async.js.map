@@ -1,6 +1,6 @@
 {"version":3,
  "file":
- "/Users/michaelwalker/Dropbox/Code/clojurescript-koans-online/out/cljs/core/async.js",
+ "/Users/mcd/Programming/lisp/got/mcd/clojurescript-koans/out/cljs/core/async.js",
  "sources":["async.cljs"],
  "lineCount":3453,
  "mappings":

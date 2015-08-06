@@ -1,6 +1,6 @@
 {"version":3,
  "file":
- "/Users/michaelwalker/Dropbox/Code/clojurescript-koans-online/out/dommy/core.js",
+ "/Users/mcd/Programming/lisp/got/mcd/clojurescript-koans/out/dommy/core.js",
  "sources":["core.cljs"],
  "lineCount":1005,
  "mappings":

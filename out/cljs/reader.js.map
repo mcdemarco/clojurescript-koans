@@ -1,6 +1,6 @@
 {"version":3,
  "file":
- "/Users/michaelwalker/Dropbox/Code/clojurescript-koans-online/out/cljs/reader.js",
+ "/Users/mcd/Programming/lisp/got/mcd/clojurescript-koans/out/cljs/reader.js",
  "sources":["reader.cljs"],
  "lineCount":834,
  "mappings":
