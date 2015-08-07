@@ -1,5 +1,16 @@
 ClojureScript Koans Online
 ==========================
+
+About This Fork
+---------------
+http://mcdemarco.github.io/clojurescript-koans/
+
+The fork adds a few minor tweaks to make the koans more comprehensible on a mobile phone: autocapitalize is turned off on the koan input, and the page is more responsive.  Please note that you need to press return on the virtual keyboard to evaluate your input; just typing and hitting Done is not enough.
+
+To build the fork, you also need to use my [forked version](https://github.com/mcdemarco/clojurescript-in-clojurescript) of clojurescript-in-clojurescript, or one that has been similarly repaired.
+
+Original
+--------
 http://clojurescriptkoans.com
 
 The ClojureScript Koans are a fun and easy way to get started with ClojureScript. No experience with Clojure or ClojureScript is assumed or required, and since they're run in-browser they don't require a functioning Clojure development environment.
